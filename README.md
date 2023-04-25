@@ -2,6 +2,15 @@
 
 React-Nodejs chat app application with socket.io. Supporting socket connection regardless of any database and authentication system.
 
+## Quick Sneek Peek of UI of Application
+## <div align="center"> 🔥🔥`Landing Page`🔥🔥</div>
+<img src="./assets/img1.jpg" style='width:100%;' border="0" alt="Null">
+
+
+## <div align="center"> 🔥🔥`Chat Preview`🔥🔥</div>
+<img src="./assets/img2.jpg" style='width:100%;' border="0" alt="Null">
+
+
 ## Follow the steps to run on your system:
 
 ### **1.** **` git clone (forked repo)`**
